@@ -1,0 +1,10 @@
+==============================================================================
+Tasks :: Template robot main suite.                                           
+==============================================================================
+Minimal task                                                          | PASS |
+------------------------------------------------------------------------------
+Tasks :: Template robot main suite.                                   | PASS |
+1 task, 1 passed, 0 failed
+==============================================================================
+Output:  /Users/joshua/Development/robocorp-l2/level 2 robot/output/output.xml
+Log:     /Users/joshua/Development/robocorp-l2/level 2 robot/output/log.html
